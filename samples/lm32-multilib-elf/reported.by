@@ -1,0 +1,4 @@
+# based on Tim Mithro' Ansell's initial work
+reporter_name="Yann Sionneau"
+reporter_url=""
+reporter_comment="Sample LM32/baremetal configuration with all default multilibs."

@@ -1,0 +1,18 @@
+# LatticeMico32 specific config options
+
+## no-package
+## depends on EXPERIMENTAL
+##
+## select ARCH_SUPPORTS_WITH_CPU
+## select ARCH_FLOAT_SW
+## select ARCH_DEFAULT_BE
+## select ARCH_SUPPORTS_FLAT_FORMAT
+## select ARCH_SUPPORTS_32
+## select ARCH_DEFAULT_32
+## select ARCH_SUPPORTS_WITH_ABI
+## select ARCH_SUPPORTS_WITH_ARCH
+##
+## help Upstream projects do not currently provide
+## help full support for the microblaze architecture
+## help and as such, this is marked as EXPERIMENTAL
+## help for CT-NG.
